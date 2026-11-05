@@ -79,7 +79,7 @@ A collection of branding concepts, posters, graphic design experiments, and visu
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [[Add your LinkedIn URL]](https://www.linkedin.com/in/ananya-jain2511/)
+- **LinkedIn:** (https://www.linkedin.com/in/ananya-jain2511/)
 - **Email:** jainananya0111@gmail.com
 
 ---
